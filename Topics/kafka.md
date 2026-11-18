@@ -1,6 +1,6 @@
 
 
-## **2. Main reasons for Kafka consumer lag**
+## **1. Main reasons for Kafka consumer lag**
 
 | Reason                       | Explanation                                                          |
 | ---------------------------- | -------------------------------------------------------------------- |
